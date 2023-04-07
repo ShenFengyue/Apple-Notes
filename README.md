@@ -1,4 +1,4 @@
-# English-Learning
-My English is so pooooor!!! Please give me some English!!!
+# Learning
+This repository is designed to store my knowledge,not only English Learning,but also CS knowledge learning.
 
-(kidding)
+
