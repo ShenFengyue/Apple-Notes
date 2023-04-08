@@ -1,4 +1,4 @@
-# Learning
-This repository is designed to store my knowledge,not only English Learning,but also CS knowledge learning.
+# 说明
+这个repository现在不仅仅包含英语知识学习和CS知识学习，还包含了一些我未来想学习的东西，总是，一切和我的学习有关系的东西，我应该都会放到这个repository里。
 
 
