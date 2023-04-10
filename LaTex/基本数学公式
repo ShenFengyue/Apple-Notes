@@ -1,0 +1,13 @@
+以下是一些LaTeX写数学公式的基础语法：
+
+数学模式：在两个美元符号 "$$" 中间写入公式，如 $E=mc^2$。
+上下标：使用 ^ 和 _ 符号表示上下标，如 $x^2$ 表示 $x$ 的平方，$a_n$ 表示第 $n$ 个 $a$。
+分数：使用 \frac{分子}{分母} 表示分数，如 $\frac{1}{2}$。
+根号：使用 \sqrt{被开方数} 表示根号，如 $\sqrt{2}$。
+求和与积分：使用 \sum_{下标}^{上标} 表示求和，如 $\sum_{i=1}^{n} a_i$；使用 \int_{下限}^{上限} 表示积分，如 $\int_{0}^{1} x^2 dx$。
+括号与大括号：使用 ( 和 ) 表示小括号，使用 { 和 } 表示大括号，如 $(a+b)(c+d)$ 和 ${1,2,3}$。
+矩阵：使用 \begin{matrix} ... \end{matrix} 表示矩阵，如 $\begin{matrix}1 & 2\3 & 4\end{matrix}$。
+分类函数：使用 \begin{cases} ... \end{cases} 表示分类函数，如 $f(x) = \begin{cases} x, & x > 0 \ 0, & x \leq 0 \end{cases}$。
+希腊字母：使用 \alpha, \beta, \gamma, \delta, \epsilon, \theta 等符号表示希腊字母，如 $\alpha+\beta=\gamma$。
+向量：使用 \vec{a} 表示向量 $\vec{a}$。
+大型运算符：使用 \sum, \prod, \int 等符号表示大型运算符，如 $\sum_{i=1}^{n} a_i$。
