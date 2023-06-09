@@ -1,5 +1,5 @@
 
-# 这个比较简单，就不写注释了。
+# 这个比较简单，就不写注释了
 
 def binary_search(arr, target):
     low = 0
