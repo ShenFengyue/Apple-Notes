@@ -4,6 +4,12 @@
 
 https://awesome-programming-books.github.io/
 
+弥补计算机教育中缺失的一棵：
+
+https://missing-semester-cn.github.io/
+
+
+
 # 说明
 
 这个仓库用于记录和留存我的学习内容。
