@@ -1,6 +1,6 @@
 # LRU算法
 
-当然可以！以下是一个用Python编写的简单LRU（最近最少使用）缓存算法的实现示例：
+以下是一个用Python编写的简单LRU（最近最少使用）缓存算法的实现示例：
 
 ```python
 from collections import OrderedDict
