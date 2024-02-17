@@ -10,4 +10,4 @@ move fast and break things
 
 2024年1月17日
 
-今天凌晨仔细整理了一下我Github上的文件，中午想办法弄了个个人主页小奖章。
+今天凌晨仔细整理了一下我Github上的文件，中午想办法弄了个Github个人主页小奖章。
