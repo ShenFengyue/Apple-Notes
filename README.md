@@ -1,6 +1,16 @@
-# 学习
+# Notes
 
 move fast and break things
+
+---
+
+2025年6月11日
+
+在科技爱好者周刊看了一篇文章，感觉很不错。
+
+GitHub Issues（几乎）是最好的笔记应用
+
+https://github.com/ruanyf/weekly/blob/master/docs/issue-351.md
 
 ---
 
